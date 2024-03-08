@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-2\Desktop\GP\Izpitvane_8.03\Zadacha\bin\Debug\net8.0\Zadacha.exe
+C:\Users\STUDENTS-1212-2\Desktop\GP\Izpitvane_8.03\Zadacha\bin\Debug\net8.0\Zadacha.deps.json
+C:\Users\STUDENTS-1212-2\Desktop\GP\Izpitvane_8.03\Zadacha\bin\Debug\net8.0\Zadacha.runtimeconfig.json
+C:\Users\STUDENTS-1212-2\Desktop\GP\Izpitvane_8.03\Zadacha\bin\Debug\net8.0\Zadacha.dll
+C:\Users\STUDENTS-1212-2\Desktop\GP\Izpitvane_8.03\Zadacha\bin\Debug\net8.0\Zadacha.pdb
+C:\Users\STUDENTS-1212-2\Desktop\GP\Izpitvane_8.03\Zadacha\obj\Debug\net8.0\Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-2\Desktop\GP\Izpitvane_8.03\Zadacha\obj\Debug\net8.0\Zadacha.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-2\Desktop\GP\Izpitvane_8.03\Zadacha\obj\Debug\net8.0\Zadacha.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-2\Desktop\GP\Izpitvane_8.03\Zadacha\obj\Debug\net8.0\Zadacha.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-2\Desktop\GP\Izpitvane_8.03\Zadacha\obj\Debug\net8.0\Zadacha.dll
+C:\Users\STUDENTS-1212-2\Desktop\GP\Izpitvane_8.03\Zadacha\obj\Debug\net8.0\refint\Zadacha.dll
+C:\Users\STUDENTS-1212-2\Desktop\GP\Izpitvane_8.03\Zadacha\obj\Debug\net8.0\Zadacha.pdb
+C:\Users\STUDENTS-1212-2\Desktop\GP\Izpitvane_8.03\Zadacha\obj\Debug\net8.0\Zadacha.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-2\Desktop\GP\Izpitvane_8.03\Zadacha\obj\Debug\net8.0\ref\Zadacha.dll

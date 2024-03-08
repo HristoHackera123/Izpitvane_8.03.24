@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\Izpitvane_8.03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47AB3976-E751-4D93-B18F-A80E5D1A827A}|Zadacha\\Zadacha.csproj|c:\\users\\students-1212-2\\desktop\\gp\\izpitvane_8.03\\zadacha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47AB3976-E751-4D93-B18F-A80E5D1A827A}|Zadacha\\Zadacha.csproj|solutionrelative:zadacha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 216,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\Izpitvane_8.03\\Zadacha\\Program.cs",
+              "RelativeDocumentMoniker": "Zadacha\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\GP\\Izpitvane_8.03\\Zadacha\\Program.cs",
+              "RelativeToolTip": "Zadacha\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwAcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:09:02.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 11,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
