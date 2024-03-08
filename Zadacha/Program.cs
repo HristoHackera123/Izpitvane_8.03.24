@@ -9,20 +9,18 @@
             Console.WriteLine(string.Join(", ", nums));//б
             Console.WriteLine($"The count of the zeros is {ZerosCount(nums)}");//в
             int closestIndex = FindClosestToAvg(nums);//г
-            Console.WriteLine($"The element closest to the average is {nums[closestIndex]} at position {closestIndex+1}");
+            Console.WriteLine($"The element closest to the average is {nums[closestIndex]} at index {closestIndex}");
             PrintArray(nums);//д
 
         }
         static double Average(int[] nums) //a
         {
             double result = 0;
-            double count = 0;
             for (int i = 0; i < nums.Length; i++)
             {
                 result += nums[i];
-                count = i+1;
             }
-            result = result / count;
+            result = result / nums.Length;
             return result;
         }
         static int ZerosCount(int[] nums) //в
